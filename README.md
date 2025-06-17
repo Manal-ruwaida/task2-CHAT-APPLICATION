@@ -34,3 +34,5 @@ The package.json file contains metadata about the project and lists its dependen
 package-lock.json is automatically generated when dependencies are installed. It ensures consistent installation by locking the specific versions of packages and their dependencies. This prevents version mismatches that could break the application across different environments or systems.
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/ea4a376d-a1e1-42c6-9740-5677cdb05c8e)
